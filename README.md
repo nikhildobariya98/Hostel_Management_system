@@ -22,7 +22,7 @@ To preview and run the project on your device:
 
 # Live Demo
 
- https://nikhildobariya98.github.io/HostelRooms/
+
 
 # Screenshots
 
