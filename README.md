@@ -26,17 +26,18 @@ To preview and run the project on your device:
 
 # Screenshots
 
-![Screenshot 2025-05-02 182714](https://github.com/user-attachments/assets/bebed794-4a62-4e52-93fc-15f6d317ea57)
+![Screenshot 2025-05-02 182714](https://github.com/user-attachments/assets/b6ab1378-a938-46b7-8d4b-da91c04ff4b3)
 
-![Screenshot 2025-05-02 182910](https://github.com/user-attachments/assets/de79c77d-3c62-468a-a9c0-275456f96df8)
+![Screenshot 2025-05-02 182910](https://github.com/user-attachments/assets/23e90144-5d17-4e6c-bb2b-0c2d836e7c45)
 
-![Screenshot 2025-05-02 183017](https://github.com/user-attachments/assets/ff34424c-4fd2-44ea-abba-6a9842251f8d)
+![Screenshot 2025-05-02 183017](https://github.com/user-attachments/assets/ea752ea7-4d24-4729-9fb4-e24dd7037063)
 
-![Screenshot 2025-05-02 183053](https://github.com/user-attachments/assets/19eab2f3-f7d5-4d95-9e31-44f6989b68b0)
+![Screenshot 2025-05-02 183053](https://github.com/user-attachments/assets/be8f5d6e-94eb-48ff-97ca-73e4e328a150)
 
-![Screenshot 2025-05-02 183134](https://github.com/user-attachments/assets/699599c0-7048-48dd-a188-d27fa3c6269c)
+![Screenshot 2025-05-02 183120](https://github.com/user-attachments/assets/8bb51261-872d-49a1-a3ba-a99765b3891e)
 
-![Screenshot 2025-05-02 183120](https://github.com/user-attachments/assets/5d4fe16f-3a8e-445f-923c-2d43b34ef813)
+![Screenshot 2025-05-02 183134](https://github.com/user-attachments/assets/849bb68e-3aff-4cfb-99c3-e0a5e8cf8942)
+
 
 # Contact
 
